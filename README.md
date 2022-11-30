@@ -1,2 +1,1 @@
-# IconCategorize
-Use to provide selection info for Dead by Daylight: Icon Repo
+This repo is here to provide addition info to DBD: Icon Repo
